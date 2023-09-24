@@ -25,7 +25,7 @@ img {
   nav {
     float: left;
     width: 30%;
-    height: 600px; /* only for demonstration, should be removed */
+    height: 600px; 
     background: #ccc;
     padding: 20px;
   }
@@ -39,9 +39,9 @@ img {
   article {
     float: left;
     padding: 20px;
-    width: 70%;
+    width: 100%;
     background-color: #f1f1f1;
-    height: 600px; /* only for demonstration, should be removed */
+    height: auto; /* only for demonstration, should be removed */
   }
   
   /* Clear floats after the columns */
